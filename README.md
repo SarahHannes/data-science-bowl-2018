@@ -15,6 +15,7 @@ Goal is to perform image segmentation on <a href="https://www.kaggle.com/c/data-
 - Model is set to trained for 100 epochs, with batch size 16. However, early stopping callback is applied, training stopped at epoch 24.
 - Best accuracy (0.96804) is obtained at epoch 19. Saved best model is accessible from `/saved_model`.
 - Tensorboard can be viewed live <a href="https://tensorboard.dev/experiment/MXhDV4j2RkW4mwXBlSmpVA/">here</a>.
+- Improvement in model accuracy can also be observed from predictions at the end of epoch training, as shown below.
 
 #### Model architecture summary
 <img src="plot/model.png" width="600"></img>
