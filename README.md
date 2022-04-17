@@ -30,3 +30,7 @@ Goal is to perform image segmentation on <a href="https://www.kaggle.com/c/data-
 <img src="plot/epoch20_predictions.jpg" width="600"></img>
 #### Prediction at end of model training
 <img src="plot/epoch24_predictions.jpg" width="600"></img>
+#### Accuracy
+<img src="plot/accuracy.jpg" width="600"></img>
+#### Loss
+<img src="plot/loss.jpg" width="600"></img>
