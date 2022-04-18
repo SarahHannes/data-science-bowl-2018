@@ -1,4 +1,4 @@
-# Nuclei identification using Image segmentation
+# Nuclei identification using Image segmentation <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/SarahHannes/data-science-bowl-2018/main/data_science_bowl_2018.html">[Code]</a>
 Goal is to perform image segmentation on <a href="https://www.kaggle.com/c/data-science-bowl-2018">Data Science Bowl 2018</a> data. The dataset is already split into train and test set. The train set is later further split into train and validation sets with ratio of 80:20.
 
 #### Example of original data
